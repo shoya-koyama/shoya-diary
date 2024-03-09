@@ -1,4 +1,5 @@
 import Image from "next/image";
+import '../firebase'
 
 export default function Home() {
   // インラインスタイル

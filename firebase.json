@@ -1,5 +1,7 @@
 {
   "hosting": {
+    "site": "shoya-diary",
+    "cleanUrls": true,
     "public": "out",
     "ignore": [
       "firebase.json",
